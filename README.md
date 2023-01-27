@@ -1,2 +1,2 @@
-# vina
-VINA-Giải pháp làm bạn với học sinh con một, giúp đỡ học tập, thư giãn, ngăn chặn căng thẳng
+# VINA-tro-ly-ao-OFFICIAL
+Trợ lý ảo Tiếng Việt offline và online mạnh mẽ nhất hiện tại
